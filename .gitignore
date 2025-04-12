@@ -185,9 +185,6 @@ Certificates_OutPut/*
 Log_Files/*
 !Log_Files/.gitkeep
 
-Json_Output/*
-!Json_Output/.gitkeep
-
 Json_Output/Json_ID/*
 !Json_Output/Json_ID/.gitkeep
 
