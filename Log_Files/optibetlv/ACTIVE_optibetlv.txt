@@ -1,0 +1,69 @@
+optibet.lv
+-104.16.150.71
+--status: 403
+poker.optibet.lv
+-104.16.150.71
+--status: 200
+apis.optibet.lv
+-34.160.158.48
+--status: 403
+content.optibet.lv
+-104.16.251.71
+--status: 404
+sports-app.optibet.lv
+-104.16.150.71
+--status: 403
+om-api.optibet.lv
+-104.16.127.119
+--status: 520
+om.optibet.lv
+-104.16.126.119
+--status: 200
+sms.klondaika.lv
+-207.174.61.1
+--status: 403
+go.optibet.lv
+-52.2.56.64
+--status: 403
+uz.laimz.lv
+-18.184.197.212
+--status: 403
+opti.bet
+-18.184.197.212
+--status: 403
+promotions.optibet.lv
+-104.16.150.71
+--status: 403
+promo.optibet.lv
+-104.16.251.71
+--status: 200
+coupon.enlabs.services
+-172.67.70.158
+--status: 503
+sni.cloudflaressl.com
+-172.67.27.61
+--status: 200
+ssl404650.cloudflaressl.com
+-104.22.62.243
+--status: 200
+ssl404649.cloudflaressl.com
+-104.22.62.243
+--status: 200
+ssl404648.cloudflaressl.com
+-172.67.27.61
+--status: 200
+www.optibet.lv
+-104.16.150.71
+--status: 403
+sni109286.cloudflaressl.com
+-104.22.62.243
+--status: 200
+ssl301992.cloudflaressl.com
+-104.22.63.243
+--status: 200
+ssl326127.cloudflaressl.com
+-172.67.27.61
+--status: 200
+ssl305509.cloudflaressl.com
+-172.67.27.61
+--status: 200

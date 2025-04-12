@@ -1,0 +1,63 @@
+{
+    "active_subdomains": [
+        {
+            "subdomain": "client.smscredit.lv",
+            "ip": "66.22.61.205",
+            "status_code": 200
+        },
+        {
+            "subdomain": "pay.smscredit.lv",
+            "ip": "66.22.61.205",
+            "status_code": 200
+        },
+        {
+            "subdomain": "smscredit.lv",
+            "ip": "75.2.70.75",
+            "status_code": 200
+        },
+        {
+            "subdomain": "ex.smscredit.lv",
+            "ip": "199.36.158.100",
+            "status_code": 400
+        },
+        {
+            "subdomain": "ej.smscredit.lv",
+            "ip": "52.72.49.79",
+            "status_code": 200
+        },
+        {
+            "subdomain": "www.smscredit.lv",
+            "ip": "13.50.141.112",
+            "status_code": 200
+        }
+    ],
+    "inactive_subdomains": [
+        "smscredit.lv",
+        "client.smscredit.lv",
+        "www.client.smscredit.lv",
+        "cola.smscredit.lv",
+        "www.smscredit.lv",
+        "*.smscredit.lv",
+        "WWW.SMSCREDIT.LV",
+        "links.smscredit.lv",
+        "m.smscredit.lv",
+        "static.smscredit.lv",
+        "partneriem.smscredit.lv"
+    ],
+    "domains": [
+        "smscredit.lv",
+        "ex.smscredit.lv",
+        "client.smscredit.lv",
+        "www.client.smscredit.lv",
+        "pay.smscredit.lv",
+        "cola.smscredit.lv",
+        "ej.smscredit.lv",
+        "www.smscredit.lv",
+        "*.smscredit.lv",
+        "WWW.SMSCREDIT.LV",
+        "links.smscredit.lv",
+        "m.smscredit.lv",
+        "static.smscredit.lv",
+        "partneriem.smscredit.lv"
+    ]
+}

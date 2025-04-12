@@ -1,0 +1,146 @@
+{
+    "active_subdomains": [
+        {
+            "subdomain": "biznesaskices.swedbank.lv",
+            "ip": "89.111.24.8",
+            "status_code": 200
+        },
+        {
+            "subdomain": "ziemassvetki.swedbank.lv",
+            "ip": "87.110.224.211",
+            "status_code": 200
+        },
+        {
+            "subdomain": "biznesam.swedbank.lv",
+            "ip": "89.111.20.238",
+            "status_code": 200
+        },
+        {
+            "subdomain": "login.swedbank.lv",
+            "ip": "193.203.196.154",
+            "status_code": 404
+        },
+        {
+            "subdomain": "mobile.swedbank.lv",
+            "ip": "193.203.196.157",
+            "status_code": 404
+        },
+        {
+            "subdomain": "blog.swedbank.lv",
+            "ip": "89.111.24.8",
+            "status_code": 200
+        },
+        {
+            "subdomain": "newcustomer.swedbank.lv",
+            "ip": "193.203.196.179",
+            "status_code": 404
+        },
+        {
+            "subdomain": "content.swedbank.lv",
+            "ip": "164.10.48.93",
+            "status_code": 200
+        },
+        {
+            "subdomain": "register.swedbank.lv",
+            "ip": "164.10.48.114",
+            "status_code": 200
+        },
+        {
+            "subdomain": "psd2.api.swedbank.lv",
+            "ip": "193.203.196.176",
+            "status_code": 404
+        },
+        {
+            "subdomain": "psd2.swedbank.lv",
+            "ip": "193.203.196.163",
+            "status_code": 404
+        },
+        {
+            "subdomain": "business.swedbank.lv",
+            "ip": "193.203.196.142",
+            "status_code": 200
+        },
+        {
+            "subdomain": "ib.swedbank.lv",
+            "ip": "193.203.196.143",
+            "status_code": 200
+        },
+        {
+            "subdomain": "www.swedbank.lv",
+            "ip": "193.203.196.144",
+            "status_code": 200
+        }
+    ],
+    "inactive_subdomains": [
+        "id.business.swedbank.lv",
+        "id.login.swedbank.lv",
+        "partner.swedbank.lv",
+        "swedbank.lv",
+        "sip.swedbank.lv",
+        "blog.swedbank.lv",
+        "webmail.blog.swedbank.lv",
+        "id.ib.swedbank.lv",
+        "webdisk.blog.swedbank.lv",
+        "beta.swedbank.lv",
+        "ib.swedbank.lv",
+        "cpcontacts.blog.swedbank.lv",
+        "cpcalendars.blog.swedbank.lv",
+        "cpanel.blog.swedbank.lv",
+        "log-in.swedbank.lv",
+        "mobile-wallet.swedbank.lv",
+        "business.swedbank.lv",
+        "cpanel.biznesaskices.swedbank.lv",
+        "www.blog.swedbank.lv",
+        "mail.blog.swedbank.lv",
+        "webmail.biznesaskices.swedbank.lv",
+        "www.swedbank.lv",
+        "cpcalendars.biznesaskices.swedbank.lv",
+        "webdisk.biznesaskices.swedbank.lv",
+        "mail.biznesaskices.swedbank.lv",
+        "meet.swedbank.lv",
+        "login.swedbank.lv",
+        "www.biznesaskices.swedbank.lv",
+        "biznesaskices.swedbank.lv",
+        "cpcontacts.biznesaskices.swedbank.lv"
+    ],
+    "domains": [
+        "biznesam.swedbank.lv",
+        "id.business.swedbank.lv",
+        "id.login.swedbank.lv",
+        "partner.swedbank.lv",
+        "swedbank.lv",
+        "sip.swedbank.lv",
+        "mobile.swedbank.lv",
+        "blog.swedbank.lv",
+        "webmail.blog.swedbank.lv",
+        "id.ib.swedbank.lv",
+        "webdisk.blog.swedbank.lv",
+        "beta.swedbank.lv",
+        "ib.swedbank.lv",
+        "cpcontacts.blog.swedbank.lv",
+        "content.swedbank.lv",
+        "cpcalendars.blog.swedbank.lv",
+        "cpanel.blog.swedbank.lv",
+        "log-in.swedbank.lv",
+        "psd2.swedbank.lv",
+        "mobile-wallet.swedbank.lv",
+        "business.swedbank.lv",
+        "cpanel.biznesaskices.swedbank.lv",
+        "www.blog.swedbank.lv",
+        "mail.blog.swedbank.lv",
+        "webmail.biznesaskices.swedbank.lv",
+        "www.swedbank.lv",
+        "cpcalendars.biznesaskices.swedbank.lv",
+        "psd2.api.swedbank.lv",
+        "webdisk.biznesaskices.swedbank.lv",
+        "mail.biznesaskices.swedbank.lv",
+        "newcustomer.swedbank.lv",
+        "meet.swedbank.lv",
+        "login.swedbank.lv",
+        "www.biznesaskices.swedbank.lv",
+        "ziemassvetki.swedbank.lv",
+        "register.swedbank.lv",
+        "biznesaskices.swedbank.lv",
+        "cpcontacts.biznesaskices.swedbank.lv"
+    ]
+}

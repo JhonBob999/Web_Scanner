@@ -1,0 +1,27 @@
+biznesaskices.swedbank.lv
+-89.111.24.8
+--status: 200
+ziemassvetki.swedbank.lv
+-87.110.224.211
+--status: 200
+biznesam.swedbank.lv
+-89.111.20.238
+--status: 200
+login.swedbank.lv
+-193.203.196.154
+--status: 404
+mobile.swedbank.lv
+-193.203.196.157
+--status: 404
+blog.swedbank.lv
+-89.111.24.8
+--status: 200
+newcustomer.swedbank.lv
+-193.203.196.179
+--status: 404
+content.swedbank.lv
+-164.10.48.93
+--status: 200
+register.swedbank.lv
+-164.10.48.114
+--status: 200

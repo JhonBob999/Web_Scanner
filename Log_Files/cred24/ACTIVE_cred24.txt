@@ -1,0 +1,12 @@
+credit24.ee
+-217.146.68.49
+--status: 200
+m.credit24.ee
+-151.101.65.195
+--status: 400
+uat01.credit24.ee
+-54.194.99.34
+--status: 503
+www.credit24.ee
+-217.146.68.49
+--status: 200
