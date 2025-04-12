@@ -178,8 +178,13 @@ cython_debug/
 *.txt
 *.log
 
-# Игнорировать всё из этих папок
-Certificates_OutPut/
-Json_Output/
-Log_Files/
+# Игнорировать всё в папке, кроме .gitkeep
+Certificates_OutPut/*
+!Certificates_OutPut/.gitkeep
+
+Log_Files/*
+!Log_Files/.gitkeep
+
+Json_Output/*
+!Json_Output/.gitkeep
 
